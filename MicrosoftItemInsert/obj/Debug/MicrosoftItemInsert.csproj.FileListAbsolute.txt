@@ -1,0 +1,8 @@
+C:\Projects\MicrosoftItemInsert\MicrosoftItemInsert\bin\Debug\MicrosoftItemInsert.exe.config
+C:\Projects\MicrosoftItemInsert\MicrosoftItemInsert\bin\Debug\MicrosoftItemInsert.exe
+C:\Projects\MicrosoftItemInsert\MicrosoftItemInsert\bin\Debug\MicrosoftItemInsert.pdb
+C:\Projects\MicrosoftItemInsert\MicrosoftItemInsert\obj\Debug\MicrosoftItemInsert.csproj.ResolveComReference.cache
+C:\Projects\MicrosoftItemInsert\MicrosoftItemInsert\obj\Debug\MicrosoftItemInsert.csproj.CoreCompileInputs.cache
+C:\Projects\MicrosoftItemInsert\MicrosoftItemInsert\obj\Debug\MicrosoftItemInsert.exe
+C:\Projects\MicrosoftItemInsert\MicrosoftItemInsert\obj\Debug\MicrosoftItemInsert.pdb
+C:\Projects\MicrosoftItemInsert\MicrosoftItemInsert\obj\Debug\MicrosoftItemInsert.csprojAssemblyReference.cache
